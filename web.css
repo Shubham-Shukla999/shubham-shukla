@@ -1,0 +1,130 @@
+*{
+    margin:0
+}
+#header{
+    background-color: black;
+    height:70px;
+}
+
+h1{
+    color: cornsilk;
+}
+
+a{
+    color: cornsilk;
+    text-decoration: none;
+    padding-left: 30px;
+    
+}
+#brand {
+    width: 40%;
+    float:left;
+    text-align: center;
+    padding-top: 15px;
+}
+#Menu {
+    width:60%;
+    float:right;
+    text-align: center;
+    padding-top: 25px;
+    
+}
+body {
+    background-color: chartreuse;
+}
+
+#p1{
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+#title {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 15px; 
+    background-color: darkred;
+    border-radius: 50%;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+table{
+    width: 100%;
+    text-align: center;
+    
+} 
+
+img {
+    border-radius: 25px;
+    box-shadow: 0 0 15px black;
+
+}
+
+h2 {
+    padding-top: 10px;
+}
+
+#p2{
+    padding-top: 15px;
+    text-align: center;
+}
+
+#t2{
+    text-align: center;
+    background-color: darkred;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    border-radius: 50%;
+    width: 400px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15pxs;
+}
+
+#p4{
+    margin-top: 15px;
+    text-align: center;
+}
+
+#FF{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#p5{
+    text-align: center;
+}
+
+#bwk {
+    text-align: center;
+    background-color: darkred;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    border-radius: 50%;
+    width: 400px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15pxs;
+}
+
+#p6{
+    text-align: center;
+    margin-top: 15px;
+}
+#p7{ 
+    text-align: center;
+    margin-top: 15px;
+}
+
+#footer{
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
